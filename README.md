@@ -1,6 +1,6 @@
-# 🌥 Google Drive X Hard Disk Synchronizer 💾
+# 🌥 Google Drive X Hard Disk Synchronizer (SLT daily broadband users) 💾
 
-This is a tool that ensures your favorite files on Google Drive are also available on your local hard disk. Useful for backing up important files or having offline access to your favorite media. Say goodbye to manual downloads and enjoy automated file synchronization.
+Welcome to the Google Drive X Hard Disk Synchronizer, a custom tool specifically made for SLT daily broadband users. It's a handy tool that ensures your favorite files on Google Drive are available on your local hard disk, and it smartly uses your remaining daily data balance. Say goodbye to manual downloads and enjoy automated synchronization during off-peak hours.
 
 ## ⚙ How it Works
 
